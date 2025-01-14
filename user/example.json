@@ -1,18 +1,18 @@
 {
   "config": {
     "user": {
-      "phone": "工学云手机号",
-      "password": "工学云密码"
+      "phone": "18173876772",
+      "password": "YK112603yk"
     },
     "clockIn": {
       "mode": "daily",
       "location": {
-        "address": "四川省 · 成都市 · 高新区 · 在科创十一街附近",
-        "latitude": "30.559922",
-        "longitude": "104.093023",
-        "province": "四川省",
-        "city": "成都市",
-        "area": "高新区"
+        "address": "湖南省 · 长沙市 · 雨花区 · 井湾子香樟路附近",
+        "latitude": "28.137072",
+        "longitude": "113.008209",
+        "province": "湖南省",
+        "city": "长沙市",
+        "area": "雨花区"
       },
       "imageCount": 0,
       "description": [

@@ -33,7 +33,7 @@
         "imageCount": 0
       },
       "weekly": {
-        "enabled": true,
+        "enabled": false,
         "imageCount": 0,
         "submitTime": 4
       },
@@ -56,30 +56,30 @@
       },
       {
         "type": "PushPlus",
-        "enabled": true,
+        "enabled": false,
         "token": "your_token"
       },
       {
         "type": "AnPush",
-        "enabled": true,
+        "enabled": false,
         "token": "your_token",
         "channel": "通道ID,多个用英文逗号隔开",
         "to": "根据官方文档获取"
       },
       {
         "type": "WxPusher",
-        "enabled": true,
+        "enabled": false,
         "spt": "your_spt"
       },
       {
         "type": "SMTP",
         "enabled": true,
-        "host": "smtp服务地址",
+        "host": "smtp.qq.com",
         "port": 465,
-        "username": "发件人邮箱",
+        "username": "ykyuns@qq.com",
         "password": "smtp密码",
-        "from": "发件人名称",
-        "to": "收件人邮箱"
+        "from": "亦客吖",
+        "to": "739336981@qq.com"
       }
     ],
     "device": "{brand: TA J20, systemVersion: 17, Platform: Android, isPhysicalDevice: true, incremental: K23V10A}"
